@@ -1,1 +1,1 @@
-# INAKI
+# INAKI este proyecto es de como clonar un repositrio desde github a local
